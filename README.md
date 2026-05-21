@@ -1,3 +1,5 @@
+Paper: Towards Hard-pose Virtual Try-on via 3D-aware Global Correspondence Learning ([Link](https://api.nva.unit.no/publication/0198cc8effeb-b8ee9486-5e0a-4006-a545-944563cb4a4f))
+
 # Towards Hard-pose Virtual Try-on via 3D-aware Global Correspondence Learning
 Official implementation for NeurIPS 2022 paper "Towards Hard-pose Virtual Try-on via 3D-aware Global Correspondence Learning"
 
